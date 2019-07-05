@@ -10,5 +10,6 @@
   <description>ESB_Login_module</description>
   <modules>
     <module>artifacts\api\loginaccess</module>
+    <module>artifacts\template\Sequence_Template_1</module>
   </modules>
 </project>
