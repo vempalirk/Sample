@@ -6,6 +6,7 @@
   <artifactId>Sample_CICDCompositeApplication</artifactId>
   <version>1.0.0</version>
   <packaging>carbon/application</packaging>
+ 
   <name>Sample_CICDCompositeApplication</name>
   <description>Sample_CICDCompositeApplication</description>
   <properties>
