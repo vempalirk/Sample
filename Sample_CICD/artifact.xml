@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><artifacts>
-    <artifact name="Sample_API_CICD" groupId="com.example.Sample_CICD.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
-        <file>src/main/synapse-config/api/Sample_API_CICD.xml</file>
-    </artifact>
-</artifacts>
