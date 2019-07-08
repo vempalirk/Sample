@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoint name="std_EP" xmlns="http://ws.apache.org/ns/synapse">
+    <address format="soap11" optimize="swa" uri="http://dsk374-p1:8290/services/itstudentsevice"/>
+</endpoint>

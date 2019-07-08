@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="testapi" groupId="com.example.ESB_test.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/testapi.xml</file>
+    </artifact>
+    <artifact name="fetch_EP" groupId="com.example.ESB_test.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/fetch_EP.xml</file>
+    </artifact>
+    <artifact name="std_EP" groupId="com.example.ESB_test.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/std_EP.xml</file>
+    </artifact>
+</artifacts>
