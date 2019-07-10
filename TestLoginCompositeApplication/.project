@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TestLoginCompositeApplication</name>
+	<comment></comment>
+	<projects>
+		<project>TestLogin</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.wso2.developerstudio.eclipse.distribution.project.nature</nature>
+	</natures>
+</projectDescription>
